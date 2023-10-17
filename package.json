@@ -4,6 +4,7 @@
   "description": "from here to my journey starts",
   "main": "App.js",
   "scripts": {
+    "start" : "parcel index.html",
     "test": "just"
   },
   "author": "samsonkaleti",
