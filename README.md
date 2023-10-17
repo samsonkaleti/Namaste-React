@@ -14,6 +14,8 @@ A : jsx is a javascript XML, jsx allows to us to write HTML like syntax in react
 
 2 . React.ceateElement vs JSX?
 
+
+
     React.createElement creates an JS object while JSX firstly create React.createElement itself and the create HTML element for rendering.
 
 3. Benifits or super powers of jsx?
