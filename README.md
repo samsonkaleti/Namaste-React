@@ -44,6 +44,8 @@ A : jsx is a javascript XML, jsx allows to us to write HTML like syntax in react
 
     const title = () =>(
         <h1>title here</h1>
+
+        
     )
 
     const heading = () =>(
