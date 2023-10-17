@@ -7,6 +7,8 @@ const heading = React.createElement("h1",{},'Hello this is ReactElement');
 
 
 // ShortHand Functional Component :
+
+
 const Tittle = () => <h1>this Is tittle Of React</h1> 
 
 
