@@ -33,6 +33,8 @@ A : jsx is a javascript XML, jsx allows to us to write HTML like syntax in react
 
     Behind the scenes this also create react element by babel and then convert it into HTMLELEMENT
 
+    
+
 5. what is Component?
     There are two type to components:
     1- Class Base Component
@@ -45,7 +47,7 @@ A : jsx is a javascript XML, jsx allows to us to write HTML like syntax in react
     const title = () =>(
         <h1>title here</h1>
 
-        
+
     )
 
     const heading = () =>(
